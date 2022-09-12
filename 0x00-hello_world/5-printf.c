@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
-*main -Entry
+*main - Entry point
+*main - void 
 *Program prints using printf
 *Return: ALways 0 (Success)
 **/
